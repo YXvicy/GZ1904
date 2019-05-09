@@ -19,4 +19,9 @@ public class User {
 		System.out.println("cc");
 	}
 	
+	
+	public void dd() {
+		System.out.println("dd");
+	}
+	
 }
