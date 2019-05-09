@@ -19,15 +19,4 @@ public class User {
 		System.out.println("cc");
 	}
 	
-	public void dd() {
-		System.out.println("dd");
-	}
-	
-	public void ee() {
-		System.out.println("ee");
-	}
-	
-	public void ff() {
-		System.out.println("ff");
-	}
 }
