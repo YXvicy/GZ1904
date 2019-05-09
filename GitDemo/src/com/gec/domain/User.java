@@ -26,4 +26,8 @@ public class User {
 	public void ee() {
 		System.out.println("ee");
 	}
+	
+	public void ff() {
+		System.out.println("ff");
+	}
 }
