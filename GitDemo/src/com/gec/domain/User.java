@@ -14,4 +14,8 @@ public class User {
 	public void bb() {
 		System.out.println("bb");
 	}
+	
+	public void cc() {
+		System.out.println("cc");
+	}
 }
